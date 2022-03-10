@@ -1,5 +1,5 @@
-# mermaid-poc-workflow
-Explore mermaid
+# Program Update Workflow Example
+
 
 ```mermaid
     graph LR;
